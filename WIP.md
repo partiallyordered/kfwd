@@ -1,4 +1,5 @@
 Notes
+- https://news.ycombinator.com/item?id=30970720
 - https://news.ycombinator.com/item?id=30983245
 - https://github.com/rapiz1/rathole
 - https://github.com/anderspitman/awesome-tunneling
