@@ -1,4 +1,5 @@
 Notes
+- Is there an off-the-shelf split tunneling Rust implementation? Does that help us?
 - https://news.ycombinator.com/item?id=30970720
 - https://news.ycombinator.com/item?id=30983245
 - https://github.com/rapiz1/rathole
